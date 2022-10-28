@@ -1,0 +1,723 @@
+/* data-aos="zoom-in-left" data-aos-duration="1500"  */
+/* data-aos="zoom-in-left" data-aos-duration="3000" data-aos-offset="500" */
+body {
+  background-color: #c3c9b9;
+}
+.container {
+  position: absolute;
+  width: 483.18px;
+  height: 728px;
+  left: -65px;
+  top: -53px;
+}
+.title {
+  position: absolute;
+  height: 25px;
+  left: 95px;
+  top: 425px;
+
+  font-family: 'Cormorant SC';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 25px;
+  letter-spacing: 0.085em;
+  color: white;
+}
+.name {
+  position: absolute;
+  width: 175px;
+  height: 53px;
+  left: 100px;
+  top: 463px;
+
+  font-family: 'Cormorant SC';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 44px;
+  line-height: 53px;
+  color: white;
+}
+.name2 {
+  position: absolute;
+  width: 201px;
+  height: 53px;
+  left: 90px;
+  top: 499px;
+
+  font-family: 'Cormorant SC';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 53px;
+  color: white;
+}
+.invitation {
+  position: absolute;
+  width: none;
+  height: 25px;
+  left: 95px;
+  top: 566px;
+  font-family: 'Cormorant SC';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 25px;
+  letter-spacing: 0.085em;
+  color: #ffffff;
+}
+.panah a span {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 190px;
+  top: 604px;
+  margin-left: -12px;
+  border-left: 1px solid white;
+  border-bottom: 1px solid white;
+  -webkit-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+  -webkit-animation: sdb07 2s infinite;
+  animation: sdb07 2s infinite;
+  box-sizing: border-box;
+}
+@keyframes sdb07 {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+.inisial-c {
+  width: 117px;
+  position: absolute;
+  height: 132px;
+  left: 27px;
+  right: 64%;
+  top: 720px;
+}
+.inisial-f {
+  position: absolute;
+  height: 140px;
+  left: 27px;
+  right: 66.67%;
+  top: 1131px;
+}
+.jadwal-13 {
+  position: absolute;
+  width: 127px;
+  height: 194px;
+  left: 202px;
+  top: 760px;
+
+  font-family: 'Cormorant SC';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 160px;
+  line-height: 194px;
+  opacity: 0.3;
+  color: #6a6d64;
+}
+.jadwal-11 {
+  position: absolute;
+  width: 110px;
+  height: 194px;
+  left: 209px;
+  top: 904px;
+
+  font-family: 'Cormorant SC';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 160px;
+  line-height: 194px;
+
+  color: #6a6d64;
+  opacity: 0.3;
+}
+.jadwal-22 {
+  position: absolute;
+  width: 144px;
+  height: 194px;
+  left: 197px;
+  top: 1055px;
+
+  font-family: 'Cormorant SC';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 160px;
+  line-height: 194px;
+
+  color: #6a6d64;
+  opacity: 0.3;
+}
+.hurufc {
+  position: absolute;
+  left: 60px;
+  top: 920px;
+}
+.hurufh {
+  position: absolute;
+  left: 85px;
+  top: 920px;
+}
+.hurufe {
+  position: absolute;
+  left: 123px;
+  top: 920px;
+}
+.hurufn {
+  position: absolute;
+  left: 148px;
+  top: 920px;
+}
+.hurufd {
+  position: absolute;
+  left: 183px;
+  top: 920px;
+}
+.hurufy {
+  position: absolute;
+  left: 213px;
+  top: 920px;
+}
+.simboldan {
+  position: absolute;
+  left: 70px;
+  top: 963px;
+}
+.huruff {
+  position: absolute;
+  left: 113px;
+  top: 960px;
+}
+.hurufi {
+  position: absolute;
+  left: 138px;
+  top: 960px;
+}
+.hurufr {
+  position: absolute;
+  left: 153px;
+  top: 960px;
+}
+.hurufm {
+  position: absolute;
+  left: 185px;
+  top: 960px;
+}
+.hurufa {
+  position: absolute;
+  left: 224px;
+  top: 960px;
+  bottom: 1.06%;
+}
+.huruf-n {
+  position: absolute;
+  left: 259px;
+  top: 960px;
+}
+.place {
+  position: absolute;
+  height: 72px;
+  left: 42px;
+  top: 1358px;
+
+  font-family: 'Cormorant SC';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 36px;
+}
+.place2 {
+  position: absolute;
+  width: 180px;
+  height: 36px;
+  left: 42px;
+  top: 1435px;
+
+  font-family: 'Cormorant Garamond';
+  font-style: italic;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 18px;
+  color: #6a6d64;
+  opacity: 0.9;
+}
+.place3 {
+  position: absolute;
+  width: 170px;
+  height: 48px;
+  left: 42px;
+  top: 1485px;
+
+  font-family: 'Cormorant SC';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #bd7b5f;
+}
+.box-direction {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 15px;
+  gap: 4px;
+
+  position: absolute;
+  width: 118px;
+  height: 37px;
+  left: 40px;
+  top: 1551px;
+
+  background: #decdb4;
+  border-radius: 5px;
+}
+.maps {
+  position: absolute;
+  width: 0px;
+  height: 74px;
+  left: 45px;
+  top: 1609px;
+}
+.google-maps {
+  position: absolute;
+  left: 5px;
+  top: 0px;
+}
+.mapouter {
+  position: absolute;
+}
+.gmap_canvas {
+  position: absolute;
+}
+.reception {
+  position: absolute;
+  height: 62px;
+  left: 42px;
+  top: 1711px;
+
+  font-family: 'Cormorant SC';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 31px;
+
+  color: #6a6d64;
+}
+.today {
+  position: absolute;
+  width: 142px;
+  height: 48px;
+  left: 42px;
+  top: 1778px;
+
+  font-family: 'Cormorant Garamond';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #bd7b5f;
+}
+.session1 {
+  position: absolute;
+  width: 74.98px;
+  height: 29px;
+  left: 40px;
+  top: 1847px;
+
+  font-family: 'Cormorant Garamond';
+  font-style: italic;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 27px;
+
+  color: #6a6d64;
+}
+.time1 {
+  position: absolute;
+  width: 144px;
+  height: 29px;
+  left: 40px;
+  top: 1870px;
+
+  font-family: 'Cormorant SC';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+
+  color: #bd7b5f;
+}
+.session2 {
+  position: absolute;
+  width: 187px;
+  height: 46px;
+  left: 40px;
+  top: 1906px;
+
+  font-family: 'Cormorant Garamond';
+  font-style: italic;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 27px;
+
+  color: #6a6d64;
+}
+.time2 {
+  position: absolute;
+  width: 120px;
+  height: 29px;
+  left: 40px;
+  top: 1931px;
+
+  font-family: 'Cormorant SC';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+
+  color: #bd7b5f;
+}
+.union {
+  box-sizing: border-box;
+  position: absolute;
+  width: 324.07px;
+  height: 448.47px;
+  left: 24px;
+  top: 2000px;
+}
+.imager {
+  width: 375px;
+  height: 667px;
+}
+.image2 {
+  position: absolute;
+  width: 293px;
+  height: 405.47px;
+  left: 40px;
+  top: 2021px;
+}
+.wish {
+  position: absolute;
+  height: 31px;
+  left: 140px;
+  top: 2502px;
+
+  font-family: 'Cormorant SC';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 31px;
+
+  color: #bd7b5f;
+}
+.text-wish {
+  position: absolute;
+  width: 292px;
+  height: 75px;
+  left: 40px;
+  top: 2566px;
+
+  font-family: 'Cormorant Garamond';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+}
+.isi-wish {
+  position: absolute;
+  width: 292px;
+  height: 75px;
+  left: 40px;
+  top: 2600px;
+
+  font-family: 'Cormorant Garamond';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
+  text-align: center;
+}
+.line {
+  position: absolute;
+  width: 0px;
+  height: 58px;
+  left: 155px;
+  top: 2704px;
+}
+.kotak {
+  position: absolute;
+  width: 144px;
+  height: 219px;
+  left: 23px;
+  top: 2752px;
+
+  background: #d9d9d9;
+}
+.kotak2 {
+  position: absolute;
+  width: 165px;
+  height: 113px;
+  left: 183px;
+  top: 2793px;
+
+  background: #d9d9d9;
+}
+.kotak3 {
+  position: absolute;
+  width: 165px;
+  height: 113px;
+  left: 23px;
+  top: 3012px;
+
+  background: #d9d9d9;
+}
+.kotak4 {
+  position: absolute;
+  width: 144px;
+  height: 219px;
+  left: 204px;
+  top: 2971px;
+
+  background: #d9d9d9;
+}
+.wedding-gift {
+  position: absolute;
+  height: 31px;
+  left: 90px;
+  top: 3247px;
+
+  font-family: 'Cormorant SC';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 31px;
+  text-align: center;
+
+  color: #bd7b5f;
+}
+.isi-gift {
+  position: absolute;
+  width: 292px;
+  height: 75px;
+  left: 40px;
+  top: 3317px;
+
+  font-family: 'Cormorant Garamond';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
+  text-align: center;
+}
+.click-here {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 15px;
+  gap: 4px;
+
+  position: absolute;
+  width: 108px;
+  height: 37px;
+  left: 132px;
+  top: 3407px;
+  border-radius: 5px;
+}
+.rsvp {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 15px;
+  gap: 4px;
+
+  position: absolute;
+  width: 323px;
+  height: 50px;
+  left: 25px;
+  top: 3481px;
+
+  background: #bd7b5f;
+  border-radius: 5px;
+}
+
+/* halaman rsvp */
+.title-rsvp {
+  position: absolute;
+  height: 48px;
+  left: 36%;
+  right: 37.33%;
+  top: 87px;
+
+  font-family: 'Cormorant SC';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 48px;
+  text-align: center;
+  letter-spacing: 0.025em;
+}
+.flower-down {
+  position: absolute;
+  height: 202.41px;
+  left: 227px;
+  top: 3336px;
+}
+.flower-image {
+  position: absolute;
+  height: 678.94px;
+  left: 67.09px;
+  right: 200px;
+  top: 1433.07px;
+}
+.flower-image-left {
+  position: absolute;
+  height: 678.94px;
+  left: 0px;
+  top: 2275px;
+}
+.flower-inisial-f {
+  position: absolute;
+  height: 265.38px;
+  left: 0px;
+  top: 955px;
+}
+.flower-inisial-c {
+  position: absolute;
+  height: 318px;
+  right: 200px;
+  left: 68px;
+  top: 575px;
+}
+#myImg {
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+#myImg:hover {
+  opacity: 0.7;
+}
+#myImg2 {
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+#myImg2:hover {
+  opacity: 0.7;
+}
+
+#myImg3 {
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+#myImg3:hover {
+  opacity: 0.7;
+}
+
+#myImg4 {
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+#myImg4:hover {
+  opacity: 0.7;
+}
+
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0, 0, 0); /* Fallback color */
+  background-color: rgba(0, 0, 0, 0.9); /* Black w/ opacity */
+}
+
+/* Modal Content (image) */
+.modal-content {
+  margin: auto;
+  display: block;
+  width: 80%;
+  max-width: 700px;
+}
+
+/* Caption of Modal Image */
+#caption {
+  margin: auto;
+  display: block;
+  width: 80%;
+  max-width: 700px;
+  text-align: center;
+  color: #ccc;
+  padding: 10px 0;
+  height: 150px;
+}
+
+/* Add Animation */
+.modal-content,
+#caption {
+  -webkit-animation-name: zoom;
+  -webkit-animation-duration: 0.6s;
+  animation-name: zoom;
+  animation-duration: 0.6s;
+}
+
+@-webkit-keyframes zoom {
+  from {
+    -webkit-transform: scale(0);
+  }
+  to {
+    -webkit-transform: scale(1);
+  }
+}
+
+@keyframes zoom {
+  from {
+    transform: scale(0);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+
+/* The Close Button */
+.close {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: #f1f1f1;
+  font-size: 40px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.close:hover,
+.close:focus {
+  color: #bbb;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/* 100% Image Width on Smaller Screens */
+@media only screen and (max-width: 700px) {
+  .modal-content {
+    width: 100%;
+  }
+}
