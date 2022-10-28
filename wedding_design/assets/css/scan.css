@@ -1,0 +1,51 @@
+body {
+  background-color: #d0d7c4;
+}
+.kotakluar {
+  position: absolute;
+  width: 327px;
+  height: 546px;
+  left: 24px;
+  top: 66px;
+
+  background: #5d724f;
+  border-radius: 10px;
+}
+.wedding-gift {
+  position: absolute;
+  height: 36px;
+  left: 74px;
+  top: 87px;
+
+  font-family: 'Cormorant SC';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 36px;
+  text-align: center;
+  letter-spacing: 0.025em;
+
+  color: #ffffff;
+}
+.close {
+  position: absolute;
+  width: 44px;
+  height: 46.75px;
+  left: 298.12px;
+  top: -10px;
+}
+.qr-code {
+  position: absolute;
+  width: 285px;
+  height: 417px;
+  left: 45px;
+  top: 146px;
+
+  background: url(IMG_2487.jpg);
+}
+/* @media screen and (max-width: 800px) {
+  body,
+  .kotakluar {
+    width: 327px;
+  }
+} */
